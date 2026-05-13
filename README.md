@@ -1,7 +1,6 @@
 # Automate-AWS-Resource-Provisioning
 Developed a cloud automation project that provisions and manages AWS resources programmatically using Python and the boto3 SDK. The project automates the creation and management of services such as Amazon EC2, Amazon S3, and AWS IAM, reducing manual configuration efforts and improving operational efficiency.
 
-# AWS Resource Provisioning Automation using Python & boto3
 
 ## 📌 Project Overview
 This project automates the provisioning and management of AWS cloud resources using Python and the boto3 SDK. Instead of manually configuring services through the AWS Management Console, the project uses scripts to create and manage AWS infrastructure efficiently.
